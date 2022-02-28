@@ -2,6 +2,8 @@ import os
 import sys
 from PIL import Image
 
+# takes system args terminal
+
 if len(sys.argv) > 1:
     if os.path.exists(sys.argv[1]):
         im = Image.open(sys.argv[1])
