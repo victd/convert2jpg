@@ -4,6 +4,7 @@ from PIL import Image
 
 # takes system args terminal
 # input type, is it any kind of image file
+# file conversion, what is the compression ratio
 
 if len(sys.argv) > 1:
     if os.path.exists(sys.argv[1]):
