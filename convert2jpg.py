@@ -6,6 +6,7 @@ from PIL import Image
 # input type, is it any kind of image file
 # file conversion, what is the compression ratio
 # standard  ISO/IEC 10918
+# Go Georgia Dawgs!
 
 if len(sys.argv) > 1:
     if os.path.exists(sys.argv[1]):
