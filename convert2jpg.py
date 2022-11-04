@@ -7,6 +7,8 @@ from PIL import Image
 # file conversion, what is the compression ratio
 # standard  ISO/IEC 10918
 # Go Georgia Dawgs!
+# for the email blast SMTP bounce backs, check the failure rate and bounce reason
+
 
 if len(sys.argv) > 1:
     if os.path.exists(sys.argv[1]):
