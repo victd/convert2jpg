@@ -8,7 +8,7 @@ from PIL import Image
 # standard  ISO/IEC 10918
 # Go Georgia Dawgs!
 # for the email blast SMTP bounce backs, check the failure rate and bounce reason
-
+# from the receiving server
 
 if len(sys.argv) > 1:
     if os.path.exists(sys.argv[1]):
