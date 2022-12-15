@@ -7,6 +7,7 @@ from PIL import Image
 # file conversion, what is the compression ratio
 # standard  ISO/IEC 10918
 # Go Georgia Dawgs!  and leafs shutout ducks
+# build the UI
 # for the email blast SMTP bounce backs, check the failure rate and bounce reason
 # from the receiving server
 
