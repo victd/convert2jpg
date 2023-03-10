@@ -6,7 +6,7 @@ from PIL import Image
 # input type, is it any kind of image file
 # file conversion, what is the compression ratio
 # standard  ISO/IEC 10918
-# Go Georgia Dawgs!  and leafs shutout ducks
+# Leafs Anaheim shutout 
 # build the UI
 # for the email blast SMTP bounce backs, check the failure rate and bounce reason
 # from the receiving server
