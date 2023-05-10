@@ -3,10 +3,9 @@ import sys
 from PIL import Image
 
 # takes system args terminal
-# input type, is it any kind of image file
+# input type, is it any kind of image file, bmp gif 
 # file conversion, what is the compression ratio
 # standard  ISO/IEC 10918
-# Leafs Anaheim shutout 
 # build the UI
 # for the email blast SMTP bounce backs, check the failure rate and bounce reason
 # from the receiving server
