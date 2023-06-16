@@ -5,7 +5,7 @@ from PIL import Image
 # takes system args terminal
 # input type, is it any kind of image file, bmp gif 
 # file conversion, what is the compression ratio
-# standard  ISO/IEC 10918
+# standard  ISO/IEC 10918, check also with IEEE
 # build the UI
 # for the email blast SMTP bounce backs, check the failure rate and bounce reason
 # from the receiving server
