@@ -9,7 +9,7 @@ from PIL import Image
 # build the UI UX
 # for the email blast SMTP bounce backs, check the failure rate and bounce reason
 # from the receiving server
-# rinx booking, league or drop-in
+# rinx booking, league or drop-in contact Lise for schedule
 
 if len(sys.argv) > 1:
     if os.path.exists(sys.argv[1]):
