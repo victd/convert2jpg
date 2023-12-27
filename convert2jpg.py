@@ -6,7 +6,7 @@ from PIL import Image
 # input type, is it any kind of image file, bmp gif 
 # file conversion, what is the compression ratio
 # standard  ISO/IEC 10918, check also with IEEE, binding function with wake-up cursor
-# build the UI UX
+# build the UI UX, engineer students know no.js
 # for the email blast SMTP bounce backs, check the failure rate and bounce reason
 # from the receiving server
 # rinx booking, league or drop-in contact Lise for schedule
